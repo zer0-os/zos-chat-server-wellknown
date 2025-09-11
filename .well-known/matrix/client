@@ -1,6 +1,3 @@
----
-layout: null
----
 {
   "m.homeserver": {
     "base_url": "https://zos-home-2-e24b9412096f.herokuapp.com"
